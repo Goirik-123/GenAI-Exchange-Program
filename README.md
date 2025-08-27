@@ -1,8 +1,5 @@
 # Legally Simple: Your AI-Powered Legal Co-Pilot
 
-![Legally Simple Demo](https://placehold.co/800x400/e2e8f0/64748b?text=App+Screenshot+Here&font=lexend)
-*<p align="center">A modern, AI-native application designed to demystify complex legal documents.</p>*
-
 ---
 
 Legally Simple is a web application built with Next.js and Google's Gemini AI that acts as a personal legal assistant. It empowers users to upload legal document images, receive in-depth analysis, predict potential risks, and even get help filling out complex forms. This project showcases the power of generative AI to make legal information more accessible and manageable for everyone.
