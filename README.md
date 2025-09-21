@@ -1,4 +1,4 @@
-*<p align="center"># Legally Simple: Your AI-Powered Legal Co-Pilot</p>*
+*<h1 align="center">Legally Simple: Your AI-Powered Legal Co-Pilot</h1>*
 
 *<p align="center">![Legally Simple Demo](public/demo.jpg)</p>*
 *<p align="center">A modern, AI-native application designed to demystify complex legal documents.</p>*
